@@ -1,0 +1,8 @@
+(1) percentage cover of spend on contract by eClass ---
+(2) top 5 spend by Item, eClass and Supplier---
+(3) Gaps in Contract Cover---------
+
+(4) non contract spend with > £10,000 spend per month by eClass ---
+(5) Spend in £ for non-contract spend when a contract is available---------
+(6) Total spend by contract number-------
+(7) top spend by eClass Category for each requisition point-----
